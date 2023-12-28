@@ -1,0 +1,14 @@
+C:\Users\goodw\source\repos\v-ivanenko\ConsoleAppRestaurantTableReservationManager\bin\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.exe
+C:\Users\goodw\source\repos\v-ivanenko\ConsoleAppRestaurantTableReservationManager\bin\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.deps.json
+C:\Users\goodw\source\repos\v-ivanenko\ConsoleAppRestaurantTableReservationManager\bin\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.runtimeconfig.json
+C:\Users\goodw\source\repos\v-ivanenko\ConsoleAppRestaurantTableReservationManager\bin\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.dll
+C:\Users\goodw\source\repos\v-ivanenko\ConsoleAppRestaurantTableReservationManager\bin\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.pdb
+C:\Users\goodw\source\repos\v-ivanenko\ConsoleAppRestaurantTableReservationManager\obj\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goodw\source\repos\v-ivanenko\ConsoleAppRestaurantTableReservationManager\obj\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.AssemblyInfoInputs.cache
+C:\Users\goodw\source\repos\v-ivanenko\ConsoleAppRestaurantTableReservationManager\obj\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.AssemblyInfo.cs
+C:\Users\goodw\source\repos\v-ivanenko\ConsoleAppRestaurantTableReservationManager\obj\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.csproj.CoreCompileInputs.cache
+C:\Users\goodw\source\repos\v-ivanenko\ConsoleAppRestaurantTableReservationManager\obj\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.dll
+C:\Users\goodw\source\repos\v-ivanenko\ConsoleAppRestaurantTableReservationManager\obj\Debug\net7.0\refint\ConsoleAppRestaurantTableReservationManager.dll
+C:\Users\goodw\source\repos\v-ivanenko\ConsoleAppRestaurantTableReservationManager\obj\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.pdb
+C:\Users\goodw\source\repos\v-ivanenko\ConsoleAppRestaurantTableReservationManager\obj\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.genruntimeconfig.cache
+C:\Users\goodw\source\repos\v-ivanenko\ConsoleAppRestaurantTableReservationManager\obj\Debug\net7.0\ref\ConsoleAppRestaurantTableReservationManager.dll
